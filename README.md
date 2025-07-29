@@ -29,3 +29,7 @@ py bot.py
 ⚠️ Avertissements
 🔒 Risque de bannissement par Discord en cas d'utilisation abusive
 🛡️ Pour réduire les risques, augmentez les délais dans CONFIG
+
+
+⚠️ CECI EST UNE PREMIÈRE VERSION, DONC PAR LA SUITE J'ESSAIERAI DE CHANGER LES LANGUES ET ÉGALEMENT DE PERFECTIONNER LE BOT SANS PROBLÈME
+SI VOUS AVEZ DES IDÉES OU PROBLÈMES, VENEZ SUR DISCORD : zn.xt
