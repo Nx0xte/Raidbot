@@ -9,8 +9,6 @@
 ⚙️ Installation
 Clonez le dépôt :
 
-git clone https://github.com/votre-repo/nuke-bot.git
-cd nuke-bot
 
 Installez les dépendances :
 
